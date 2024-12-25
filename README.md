@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Welcome GIF" width="700"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Welcome GIF" width="500"/>
 </div>
 
 <h1 align="center">Hi, I'm Mohamed Mostafa Saleh 👋</h1>
@@ -24,29 +24,6 @@
 - **Databases**: MongoDB, MySQL, Oracle DB, IBM Db2
 - **Tools**: Git, Jenkins, Docker
 - **Web Services**: REST, SOAP
-
----
-
-## 🌟 Featured Projects
-
-### [🎓 Student Portal System](https://github.com/mohamed-142/GUC-PORTAL)
-A university platform for managing teaching schedules, attendance, and grades, serving 500+ users.  
-- 💡 **Impact**: Reduced administrative workload by **30%**.  
-- 🔧 **Tech Stack**: MERN (MongoDB, Express, React, Node.js).
-
----
-
-### [🎥 Media Web Application](https://github.com/mohamed-142/Media-web-application)
-A movie database enabling users to search, view trailers, and create watchlists.  
-- 🔧 **Tech Stack**: HTML, CSS, JavaScript.
-
----
-
-### [🖥️ MIPS Microcontroller Simulator](https://github.com/mohamed-142/MIPS-simulation-computer-architecture)
-Simulates MIPS instruction processing across all pipeline stages, enhancing understanding of computer architecture.  
-- 🔧 **Tech Stack**: Java.
-
----
 
 ## 📊 GitHub Stats
 
