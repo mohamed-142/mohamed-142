@@ -1,16 +1,80 @@
-## Hi there 👋
+<!-- Header Section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Welcome GIF" width="700"/>
+</div>
 
-<!--
-**mohamed-142/mohamed-142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Mohamed Mostafa Saleh 👋</h1>
+<h3 align="center">Back-End Software Engineer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎯 **Experienced Software Engineer** with over **2+ years** of professional expertise in designing and developing scalable backend systems for fintech and enterprise applications.  
+📈 Passionate about building **robust architectures**, **secure APIs**, and middleware solutions that process **1M+ transactions daily**.  
+🌍 Currently working at **Al-Rajhi Bank**, creating backend systems that serve over **10M customers**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Skills
+- **Languages**: Java, Python, JavaScript, Node.js
+- **Frameworks**: Spring Boot, Hibernate, Express.js
+- **Databases**: MongoDB, MySQL, Oracle DB, IBM Db2
+- **Tools**: Git, Jenkins, Docker
+- **Web Services**: REST, SOAP
+
+---
+
+## 🌟 Featured Projects
+
+### [🎓 Student Portal System](https://github.com/mohamed-142/GUC-PORTAL)
+A university platform for managing teaching schedules, attendance, and grades, serving 500+ users.  
+- 💡 **Impact**: Reduced administrative workload by **30%**.  
+- 🔧 **Tech Stack**: MERN (MongoDB, Express, React, Node.js).
+
+---
+
+### [🎥 Media Web Application](https://github.com/mohamed-142/Media-web-application)
+A movie database enabling users to search, view trailers, and create watchlists.  
+- 🔧 **Tech Stack**: HTML, CSS, JavaScript.
+
+---
+
+### [🖥️ MIPS Microcontroller Simulator](https://github.com/mohamed-142/MIPS-simulation-computer-architecture)
+Simulates MIPS instruction processing across all pipeline stages, enhancing understanding of computer architecture.  
+- 🔧 **Tech Stack**: Java.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-142&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-142&theme=github_dark" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- **Advanced Frameworks**: Spring Security, Hibernate  
+- **Cloud & Deployment**: CI/CD Pipelines, Docker, Kubernetes  
+- **Architecture**: Software Application Architecture  
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:mohamed.mostafa14299@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/mohamed142" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mohamed-142" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
