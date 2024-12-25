@@ -6,6 +6,18 @@
 <h1 align="center">Hi, I'm Mohamed Mostafa Saleh 👋</h1>
 <h3 align="center">Back-End Software Engineer</h3>
 
+<p align="center">
+  <a href="mailto:mohamed.mostafa14299@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/mohamed142" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mohamed-142" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -40,18 +52,3 @@
 - **Cloud & Deployment**: CI/CD Pipelines, Docker, Kubernetes  
 - **Architecture**: Software Application Architecture  
 
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:mohamed.mostafa14299@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/mohamed142" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/mohamed-142" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
